@@ -42,4 +42,4 @@ I am a fourth year **Bioengineering** student at UCSD. Besides **programming**, 
 
 Email: [k3wang@ucsd.edu](k3wang@ucsd.edu)
 
-LinkedIn: [Keli](linkedin.com/in/keli-wang-90a00a1a3/)
+LinkedIn: [Keli](https://www.linkedin.com/in/keli-wang-90a00a1a3/)
