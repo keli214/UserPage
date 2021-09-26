@@ -23,23 +23,23 @@ I am a fourth year **Bioengineering** student at UCSD. Besides **programming**, 
 
 `Machine Learning` , `Computer Graphics`, `Computer Vision`, `Computer Animation`
 
-### **My Favor :heart:**
+### **My Favor**
 
-1. **Mini** :cat: 
+1. **Mini** 
    
    <img src="Mini.jpeg" alt="mini" width="300"/>
     
-    - Mini's :peach:
+    - Mini's Peach
         
         <img src="MiniButt.jpeg" alt="Mini2" width="300"/>
         
-2. **Max** :dog: 
+2. **Max** 
    
    <img src="Max.jpeg" alt="Max" width="300"/>
 
 
 ## **How to contact me**
 
-Email :email: [k3wang@ucsd.edu](k3wang@ucsd.edu)
+Email: [k3wang@ucsd.edu](k3wang@ucsd.edu)
 
-LinkedIn: [:elf_woman:](linkedin.com/in/keli-wang-90a00a1a3/)
+LinkedIn: [Keli](linkedin.com/in/keli-wang-90a00a1a3/)
