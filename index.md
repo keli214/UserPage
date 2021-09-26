@@ -27,7 +27,7 @@ I am a fourth year **Bioengineering** student at UCSD. Besides **programming**, 
 
 1. **Mini** :cat: 
    
-   <img src="mini.jpeg" alt="mini" width="300"/>
+   <img src="Mini.jpeg" alt="mini" width="300"/>
     
     - Mini's :peach:
         
