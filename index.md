@@ -2,7 +2,7 @@
 ![Keli](Keli.jpeg)
 
 ## **About me**
-I am a fourth year **Bioengineering** student at UCSD. Besides **programming**, I enjoy cooking, traveling, and jornaling at my spare time. 
+I am a fourth year **Bioengineering** student at UCSD. Besides **programming**, I enjoy cooking, traveling, and jornaling in my spare time. 
 
 > **Skills That I Have**
 
