@@ -1,5 +1,5 @@
 # **Hi, I'm Keli**
-<img src="Keli.jpeg" alt="keli" width="200"/>
+![Keli](Keli.jpeg)
 
 ## **About me**
 I am a fourth year **Bioengineering** student at UCSD. Besides **programming**, I enjoy cooking, traveling, and jornaling at my spare time. 
@@ -25,9 +25,17 @@ I am a fourth year **Bioengineering** student at UCSD. Besides **programming**, 
 
 ### **My Favor :heart:**
 
-1. My Pomeranian :cat: ![Mini](mini.jpeg)
-    - Mini's Butt ![Mini2](MiniButt.jpeg)
-2. My Bichon :dog: ![max](Max.jpeg)
+1. **Mini** :cat: 
+   
+   <img src="mini.jpeg" alt="mini" width="300"/>
+    
+    - Mini's :peach:
+        
+        <img src="MiniButt.jpeg" alt="Mini2" width="300"/>
+        
+2. **Max** :dog: 
+   
+   <img src="Max.jpeg" alt="Max" width="300"/>
 
 
 ## **How to contact me**
