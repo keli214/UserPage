@@ -23,21 +23,6 @@ I am a fourth year **Bioengineering** student at UCSD. Besides **programming**, 
 
 `Machine Learning` , `Computer Graphics`, `Computer Vision`, `Computer Animation`
 
-### **My Favor**
-
-1. **Mini** 
-   
-   <img src="Mini.jpeg" alt="mini" width="300"/>
-    
-    - Mini's Peach
-        
-        <img src="MiniButt.jpeg" alt="Mini2" width="300"/>
-        
-2. **Max** 
-   
-   <img src="Max.jpeg" alt="Max" width="300"/>
-
-
 
 ## **How to contact me**
 
