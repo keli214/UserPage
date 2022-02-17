@@ -1,5 +1,5 @@
 # **Hi, I'm Keli**
-![Keli](Keli.jpeg)
+![Keli](Keli.png)
 
 ## **About me**
 I am a fourth year **Bioengineering** student at UCSD. Besides **programming**, I enjoy cooking, traveling, and jornaling in my spare time. 
